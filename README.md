@@ -330,7 +330,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Team
 
 - **Karunesh** - Product Lead & Backend Development
-- **Contributors** - Neemasree, yasish08
+- **yasish08** - Core Contributor & Full Stack Development
+- **Neemasree** - Core Contributor & Documentation
 
 ---
 
