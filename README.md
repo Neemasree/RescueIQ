@@ -180,6 +180,9 @@ VITE_GOOGLE_MAPS_KEY=your-google-maps-api-key
 
 ## 📚 API Documentation
 
+### Database Integration
+The project uses **Supabase** (PostgreSQL) as its primary data store. Detailed schema information and database setup instructions can be found in the `backend/seed/schema.sql` file.
+
 ### Core Endpoints
 
 #### Authentication
@@ -330,7 +333,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Team
 
 - **Karunesh** - Product Lead & Backend Development
-- **Contributors** - Neemasree, yasish08
+- **yasish08** - Core Contributor & Full Stack Development
+- **Neemasree** - Core Contributor & Documentation
 
 ---
 
